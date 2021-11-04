@@ -3,7 +3,7 @@
 Cummulative Grade Point Calculator for University Students
 
 <h1>What make this stand out?</h1>
-<p>I have done numerous researches and I have seen that their are still a number of items in the available CGPA Calculators. Among these are:</p>
+<p>I have done numerous researches and I have seen that there are still a number of missing items in the available CGPA Calculators. Among these are:</p>
 <ul>
     <li>Not going up the stream to more User Experience Interface</li>
     <li>Less time spent in understanding how the use of this app is relatable to subconcious activities and achievemnts of the users</li>
@@ -20,4 +20,10 @@ Cummulative Grade Point Calculator for University Students
 <ul>
     <li>Installable</li>
     <li>Subscription Based Model</li>
+</ul>
+
+<h1>Existing Contributors/Landmarks</h1>
+<ul>
+    <li>mycgpa.herokuapp.com</li>
+    <li>gpcalc.herokuapp.com</li>
 </ul>
