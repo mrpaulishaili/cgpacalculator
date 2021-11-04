@@ -1,2 +1,2 @@
-# Cummulative Grade Point Calculator {CGPA}
-Grade Point Calculator for University Students
+# Cummulative Grade Point Calculator {CGP}
+Cummulative Grade Point Calculator for University Students
