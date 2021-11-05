@@ -1,6 +1,12 @@
-# Cummulative Grade Point Calculator {CGP}
+# Metric Calculator.
 
-Cummulative Grade Point Calculator for University Students
+<h1>Components</h1>
+<ul>
+    <li>Cummulative Grade Point Calculator for University Students</li>
+    <li>Currency Converter</li>
+    <li>Unit Converter</li>
+</ul>
+
 
 <h1>What make this stand out?</h1>
 <p>I have done numerous researches and I have seen that there are still a number of missing items in the available CGPA Calculators. Among these are:</p>
